@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Currently, I am a graduate student in Business Analytics with a strong interest in applying data-driven techniques to solve real-world business problems in financial markets (particularly in commodity trading industry).
+Currently, I am a STEM Major Graduate Program student in Business Analytics with a strong interest in applying data-driven techniques to solve real-world business problems in financial markets (particularly in commodity trading industry).
 
 Halfway to my graduation, a Masters of Science program @ U of H is instilling in me skillsets focusing on transforming raw data into actionable insights (using machine learning, statistical analysis, and data visualization).
 
