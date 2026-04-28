@@ -10,7 +10,7 @@
 
 Currently, I am a graduate student in Business Analytics with a strong interest in applying data-driven techniques to solve real-world business problems in financial markets (particularly in commodity trading industry).
 
-Halfway to my graduation, a Masters of Science program @ U of H instills in me skillsets focusing on transforming raw data into actionable insights (using machine learning, statistical analysis, and data visualization).
+Halfway to my graduation, a Masters of Science program @ U of H is instilling in me skillsets focusing on transforming raw data into actionable insights (using machine learning, statistical analysis, and data visualization).
 
 ---
 
@@ -35,7 +35,7 @@ Classifying customer reviews from Amazon, IMDb, and Yelp using TF-IDF, VADER, Na
 ---
 
 ### 🔹 PCA on Dow Jones Index
-Quest to understanding hidden structure in the financial markets using dimensionality reduction techniques - (PCA).
+A quest to understand the hidden structure in the financial markets using dimensionality reduction techniques - (PCA).
 
 👉 *Coming Soon*
 
@@ -47,7 +47,7 @@ I am particularly interested in roles within:
 
 - Commercial/Deals Desk Operations in Commodity Trading Industry 
 - Leveraging BIG DATA in Portfolio Management on Financial Markets  
-- A Decision Making Support on Corporate's Marketing Initiatives  
+- A Decision Making Personnel on Corporate's Marketing Initiatives  
 
 ---
 
