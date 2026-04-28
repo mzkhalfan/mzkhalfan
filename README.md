@@ -2,30 +2,26 @@
 
 🎓 MSBA Graduate Student – University of Houston (Main)  
 📊 Aspiring Business Analytics Professional  
-📈 Interested in Commodity Trading & Markets Analytics  
+📈 'Interested in Commodity Trading & Markets Analytics  
 
 ---
 
 ## 🚀 About Me
 
-Currently, I am a graduate student in Business Analytics with a strong interest in applying data-driven techniques to solve real-world business problems in financial markets particularly in commodity trading industry.
+Currently, I am a graduate student in Business Analytics with a strong interest in applying data-driven techniques to solve real-world business problems in financial markets (particularly in commodity trading industry).
 
-Halfway to my graduation, a Masters of Science program @ U of H instills in me skillsets focusing on transforming raw data into actionable insights using machine learning, statistical analysis, and data visualization.
+Halfway to my graduation, a Masters of Science program @ U of H instills in me skillsets focusing on transforming raw data into actionable insights (using machine learning, statistical analysis, and data visualization).
 
 ---
 
 ## 🧠 Skills & Tools
 
-- **Programming Languages:** Python (pandas, NumPy, scikit-learn, etc.)
-                             R (tidyverse: dplyr, tidyr, etc.)
-- **Machine Learning:** Supervised Learning and the Unsupervised Learning
-- **Models:** Prediction Focused Models (Linear Regression, Logistic Regression, Naive Bayes, SVM, Decision Trees & Ensemble Learning)
-              Exploration Focused Models (PCA, K-Means Clustering, Hierarchical Clustering)
-              NLPs - Feature Engineering, Text Preprocessing, Sentiment Analysis using NLTK, VADER, and Custom Lexicon-Based Approach
+- **Programming Languages:** Python (pandas, NumPy, scikit-learn, etc.), R (tidyverse: dplyr, tidyr, etc.), Excel, and SQL
+- **Machine Learning:** Supervised Learning & Unsupervised Learning
+- **Models:** Prediction Focused Models (Linear Regression, Logistic Regression, Naive Bayes, SVM, Decision Trees & Ensemble Learning), Exploration Focused Models (PCA, K-Means Clustering, Hierarchical Clustering), NLPs - Feature Engineering, Text Preprocessing, Sentiment Analysis using NLTK, VADER, and Custom Lexicon-Based Approach
 - **Analysis:** Exploratory, Descriptive, Diagnostic, Predictive, and Prescriptive Analytics
-- **Visualization:** Tableau, PowerBI, (MatPlotLib, Seaborn, and ggplot2)
-- **Tools:** Jupyter Notebook, RStudio, Azure, GitHub
-- **Basics:** Excel, SQL... (to mention a few)
+- **Visualization:** Tableau, PowerBI, (matplotlib, seaborn, and ggplot2)
+- **Tools:** Jupyter Notebook, RStudio, GitHub, Azure DevOps + MS 365, MS Project, MS SQL Server, Oracle DBeaver, and MySQL
 
 ---
 
@@ -49,9 +45,9 @@ Quest to understanding hidden structure in the financial markets using dimension
 
 I am particularly interested in roles within:
 
-- Commercial/Deals Desk Operations' in Commodity Trading Industry 
-- Leveraging DATA in Portfolio Management on the Financial Markets  
-- Managing Corporate Decision Making on the Marketing Initiatives  
+- Commercial/Deals Desk Operations in Commodity Trading Industry 
+- Leveraging BIG DATA in Portfolio Management on Financial Markets  
+- A Decision Making Support on Corporate's Marketing Initiatives  
 
 ---
 
