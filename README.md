@@ -35,7 +35,7 @@ Classifying customer reviews from Amazon, IMDb, and Yelp using TF-IDF, VADER, Na
 ---
 
 ### 🔹 PCA on Dow Jones Index
-Quest for understanding the hidden structure in the financial markets using dimensionality reduction techniques - (PCA).
+Quest for understanding the hidden structure in the financial markets using dimensionality reduction techniques - PCA.
 
 👉 *Coming Soon*
 
