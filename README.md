@@ -18,7 +18,7 @@ Halfway to my graduation, a Masters of Science program at University of Houston 
 
 - **Programming Languages:** Python (pandas, NumPy, scikit-learn, etc.), R (tidyverse: dplyr, tidyr, etc.), SQL, and yes - MS Excel
 - **Machine Learning:** Supervised Learning & Unsupervised Learning
-- **Models:** Prediction Focused Models (Linear Regression, Logistic Regression, Naive Bayes, SVM, Decision Trees & Ensemble Learning); Exploration Focused Models (PCA, K-Means Clustering, Hierarchical Clustering); NLPs - Feature Engineering, Text Preprocessing, Sentiment Analysis using NLTK, VADER, and Custom Lexicon-Based Approach
+- **Models:** Prediction Focused Models (Linear Regression, Logistic Regression, Naive Bayes, SVM, Decision Trees & Ensemble Learning); Exploration Focused Models (PCA, K-Means Clustering, Hierarchical Clustering); the NLPs - Feature Engineering, Text Preprocessing, Sentiment Analysis using NLTK, VADER, and Custom Lexicon-Based Approach
 - **Analysis:** Exploratory, Descriptive, Diagnostic, Predictive, and Prescriptive Analytics
 - **Visualization:** Tableau, PowerBI, (matplotlib, seaborn, and ggplot2)
 - **Tools:** Jupyter Notebook, RStudio, GitHub, Azure DevOps + MS 365, MS Project, MS SQL Server, Oracle DBeaver, and MySQL
