@@ -27,14 +27,14 @@ Halfway to my graduation, a Masters of Science program at University of Houston 
 
 ## 📂 Featured Projects
 
-### 🔹 Sentiment Analysis Using NLP & Machine Learning
+### 🔹 Sentiment Analysis using Machine Learning & (NLP) Natural Language Processing
 Classifying customer reviews from Amazon, IMDb, and Yelp using TF-IDF, VADER, Naive Bayes, and Logistic Regression.
 
 👉 *Coming Soon*
 
 ---
 
-### 🔹 PCA on Dow Jones Index
+### 🔹 Principal Component Analysis (PCA) on the Dow Jones Index
 Quest for understanding the hidden structure in the financial markets using dimensionality reduction techniques - PCA.
 
 👉 *Coming Soon*
