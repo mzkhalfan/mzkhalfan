@@ -47,7 +47,7 @@ I am particularly interested in roles within:
 
 - Commercial/Deals Desk Operations in Commodity Trading Industry 
 - Leveraging BIG DATA in Portfolio Management on Financial Markets  
-- A Decision Making Personnel on Corporate's Marketing Initiatives  
+- Decision Making Personnel on the Corporate Marketing Initiatives  
 
 ---
 
