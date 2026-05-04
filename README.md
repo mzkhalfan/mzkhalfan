@@ -37,7 +37,7 @@ Classifying customer reviews from Amazon, IMDb, and Yelp using TF-IDF, VADER and
 
 🔹 **Principal Component Analysis (PCA) on the Dow Jones Index**
 
-Exploring the hidden structure(s) of the financial markets using dimensionality reduction techniques (PCA...) correlation analysis, and the variance optimization.
+Exploring the hidden structure(s) of the financial markets using dimensionality reduction techniques (such as PCA...) correlation analysis, and the variance optimization.
 
 👉 🔗 [View Project](https://github.com/mzkhalfan/sentiment-analysis-nlp-ml/blob/main/notebooks/pca_dow_jones_analysis.ipynb)
 
