@@ -29,7 +29,7 @@ Halfway to my graduation, a Masters of Science program at University of Houston 
 
 🔹 **Sentiment Analysis using Machine Learning & NLP**
 
-Classifying customer reviews from Amazon, IMDb, and Yelp using TF-IDF, VADER, Naive Bayes, and Logistic Regression.
+Classifying customer reviews from Amazon, IMDb, and Yelp using TF-IDF, VADER, Naive Bayes, and Logistic Regression... then ran a comparative analysis between models.
 
 👉 🔗 [View Project](https://github.com/mzkhalfan/sentiment-analysis-nlp-ml)
 
