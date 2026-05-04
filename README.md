@@ -29,7 +29,7 @@ Halfway to my graduation, a Masters of Science program at University of Houston 
 
 🔹 **Sentiment Analysis using Machine Learning & NLP**
 
-Classifying customer reviews from Amazon, IMDb, and Yelp using TF-IDF, VADER, Naive Bayes, and Logistic Regression... then ran a comparative analysis between models.
+Classifying customer reviews from Amazon, IMDb, and Yelp using TF-IDF, VADER - ran comparative analysis between Naive Bayes & Logistic Regression.
 
 👉 🔗 [View Project](https://github.com/mzkhalfan/sentiment-analysis-nlp-ml)
 
@@ -37,7 +37,7 @@ Classifying customer reviews from Amazon, IMDb, and Yelp using TF-IDF, VADER, Na
 
 🔹 **Principal Component Analysis (PCA) on the Dow Jones Index**
 
-Understanding hidden structure in financial markets using dimensionality reduction techniques (PCA), correlation analysis, and variance optimization.
+Exploring hidden structure in financial markets using dimensionality reduction techniques (PCA), correlation analysis, and variance optimization.
 
 👉 🔗 [View Project](https://github.com/mzkhalfan/sentiment-analysis-nlp-ml/blob/main/notebooks/pca_dow_jones_analysis.ipynb)
 
